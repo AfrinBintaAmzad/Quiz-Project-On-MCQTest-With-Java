@@ -48,13 +48,13 @@ if user press y, then the previous scenario will happen again otherwise the prog
 If user select option 2, then, System> You will be asked 5 questions, each questions has 1 marks
 
 Which testing is done by developer?
-a. Unit Testing
+- a. Unit Testing
 
-b. Integration Testing
+- b. Integration Testing
 
-c. Sanity Testing
+- c. Sanity Testing
 
-d. Regression Testing
+- d. Regression Testing
 
 User> a
 
