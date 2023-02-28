@@ -1,0 +1,218 @@
+[
+  {
+    "Option a": "Unit Testing",
+    "Option b": "Integration Testing",
+    "Question: ": "Which testing is done by developer?",
+    "Correct Ans ": "a",
+    "Option c": "Sanity Testing",
+    "Option d": " Regression Testing"
+  },
+  {
+    "Option a": "Which is functional testing?",
+    "Option b": "Load Testing",
+    "Question: ": "Security Testing ",
+    "Correct Ans ": "c",
+    "Option c": "Gorilla Testing",
+    "Option d": "Benchmark Testing"
+  },
+  {
+    "Option a": "waitForElementPresent",
+    "Option b": "pause",
+    "Question: ": "If an element got added after the page has loaded what command would you use to make sure the test passed in the future?",
+    "Correct Ans ": "a",
+    "Option c": "assertElementPresent",
+    "Option d": "assertElementPast"
+  },
+  {
+    "Option a": "Id",
+    "Option b": "Xpath",
+    "Question: ": "What is the most common way to find an element on a page?",
+    "Correct Ans ": "a",
+    "Option c": " CSS Selector",
+    "Option d": "Name"
+  },
+  {
+    "Option a": "Structural testing",
+    "Option b": "Error guessing technique",
+    "Question: ": "Which of the following testing is also known as white-box testing?",
+    "Correct Ans ": "a",
+    "Option c": "Design based testing",
+    "Option d": "None of the above"
+  },
+  {
+    "Option a": "White box and black box testing",
+    "Option b": "White-box testing",
+    "Question: ": "Which of the following testing is related to the boundary value analysis?",
+    "Correct Ans ": "c",
+    "Option c": "Black box testing",
+    "Option d": "None of the above"
+  },
+  {
+    "Option a": "contains()",
+    "Option b": "starts-with()",
+    "Question: ": "Pick two from the following if you wanted do a partial match on an attribute on an element from the beginning of the value:",
+    "Correct Ans ": "d",
+    "Option c": "ends-with()",
+    "Option d": "a & b"
+  },
+  {
+    "Option a": "Testing Planning",
+    "Option b": "Requirement Gathering",
+    "Question: ": "Which of the following is not a part of STLC (Software Testing Life Cycle)?",
+    "Correct Ans ": "d",
+    "Option c": "Test Design",
+    "Option d": "Testing closure"
+  },
+  {
+    "Option a": " findElementByXpath",
+    "Option b": "findElementsByXPath",
+    "Question: ": "What is the best call for finding multiple elements using XPath?",
+    "Correct Ans ": "b",
+    "Option c": "findElementByCssSelector",
+    "Option d": "both b and c"
+  },
+  {
+    "Option a": "**",
+    "Option b": ".*",
+    "Question: ": "Which of the following expression is used for \"anything\"?",
+    "Correct Ans ": "b",
+    "Option c": "*.",
+    "Option d": "*+"
+  },
+  {
+    "Option a": "Pattern Matching",
+    "Option b": "XPath",
+    "Question: ": "Select the odd one using in Selenium",
+    "Correct Ans ": "a",
+    "Option c": "Id",
+    "Option d": "CSS selector"
+  },
+  {
+    "Option a": "Experience-based Test Design Technique",
+    "Option b": "White Box Test Design Technique",
+    "Question: ": "Exploratory testing is a ----- ?",
+    "Correct Ans ": "a",
+    "Option c": "Black Box Test Design Technique",
+    "Option d": "Grey Box Test Design Technique"
+  },
+  {
+    "Option a": "Product is old",
+    "Option b": "Developers are super",
+    "Question: ": "Does the customer get a 100% bug-free product?",
+    "Correct Ans ": "c",
+    "Option c": "The testing team is not good",
+    "Option d": "All of the above"
+  },
+  {
+    "Option a": "Defect Report",
+    "Option b": "Test Summary Report",
+    "Question: ": "Which Test Document is used to define the Exit Criteria of Testing?",
+    "Correct Ans ": "d",
+    "Option c": "Test Case",
+    "Option d": "Test Plan"
+  },
+  {
+    "Option a": "waitForActive",
+    "Option b": "waitForAlert",
+    "Question: ": "Which of the following is not a wait command in Selenium?",
+    "Correct Ans ": "a",
+    "Option c": "waitForTitle",
+    "Option d": "None of these"
+  },
+  {
+    "Option a": "sendKeys()",
+    "Option b": "sendKey()",
+    "Question: ": "Selenium command for entering text into text boxes?",
+    "Correct Ans ": "a",
+    "Option c": "sendKey",
+    "Option d": "SendsKeys()"
+  },
+  {
+    "Option a": "PHP",
+    "Option b": "C#",
+    "Question: ": "Which of the following language is not supported by Selenium?",
+    "Correct Ans ": "c",
+    "Option c": "ASP",
+    "Option d": "Java"
+  },
+  {
+    "Option a": "getMultipleWindows()",
+    "Option b": "getWindowHandles()",
+    "Question: ": "Which  of the following method is used to work with multiple browser windows?",
+    "Correct Ans ": "b",
+    "Option c": "getWindowhandle()",
+    "Option d": "Both B &C"
+  },
+  {
+    "Option a": "WebDriverWait",
+    "Option b": "WebElement",
+    "Question: ": "Which one is a class in Selenium ?",
+    "Correct Ans ": "a",
+    "Option c": "WebDriver",
+    "Option d": "getPageSource"
+  },
+  {
+    "Option a": "getText()",
+    "Option b": "getValue()",
+    "Question: ": "Selenium method to get content which is inside any HTML tags?",
+    "Correct Ans ": "a",
+    "Option c": "get()",
+    "Option d": "getAttribute()"
+  },
+  {
+    "Option a": "ID",
+    "Option b": "NAME",
+    "Question: ": "What is the best element locator in selenium webdriver?",
+    "Correct Ans ": "a",
+    "Option c": "xPATH",
+    "Option d": "CLASS"
+  },
+  {
+    "Option a": "Boundary value analysis",
+    "Option b": "Code path analysis",
+    "Question: ": "Which of the below testing is related to black-box testing?",
+    "Correct Ans ": "a",
+    "Option c": "Basic path testing",
+    "Option d": "None of the above"
+  },
+  {
+    "Option a": "getCurrentUrl()",
+    "Option b": "getPageUrl()",
+    "Question: ": " Which method to use to get current page url?",
+    "Correct Ans ": "a",
+    "Option c": "getWebpageUrl()",
+    "Option d": "getUrl()"
+  },
+  {
+    "Option a": "By.div",
+    "Option b": "By.classname",
+    "Question: ": "Which of the below are NOT a correct way of location element? ",
+    "Correct Ans ": "d",
+    "Option c": "By.partialtext",
+    "Option d": "Both 1 & 3"
+  },
+  {
+    "Option a": "get()",
+    "Option b": "openUrl()",
+    "Question: ": "Which method should we use to launch a url?",
+    "Correct Ans ": "a",
+    "Option c": "open()",
+    "Option d": "startChrome()"
+  },
+  {
+    "Option a": "disconnect()",
+    "Option b": "close()",
+    "Question: ": "Which method to use to close a webpage? Hint ",
+    "Correct Ans ": "d",
+    "Option c": "quit()",
+    "Option d": "Both b & c"
+  },
+  {
+    "Option a": "White box and black box testing",
+    "Option b": "White-box testing",
+    "Question: ": "Which of the following testing is related to the boundary value analysis?",
+    "Correct Ans ": "c",
+    "Option c": "Black box testing",
+    "Option d": "None of the above"
+  }
+]
